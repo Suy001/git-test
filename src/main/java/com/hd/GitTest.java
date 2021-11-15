@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("update by hot-fix");
         System.out.println("update by master");
         System.out.println("update by master pull test");
+        System.out.println("github-update");
     }
 }
